@@ -1,0 +1,26 @@
+{
+  "name": "web-qa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "node --test"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clack/core": "^0.3.5",
+    "@clack/prompts": "^0.8.2",
+    "@langchain/community": "^0.3.19",
+    "@langchain/core": "^0.3.23",
+    "@langchain/google-genai": "^0.1.5",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.7"
+  },
+  "overrides": {
+    "@langchain/core": "^0.3.0"
+  }
+}
