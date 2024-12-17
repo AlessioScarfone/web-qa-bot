@@ -18,3 +18,6 @@ CLI tool that accepts a URL of a webpage and allows users to perform question-an
     ```bash
     npm run start
     ```
+
+## Todo
+[] trim messages
