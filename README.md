@@ -20,4 +20,4 @@ CLI tool that accepts a URL of a webpage and allows users to perform question-an
     ```
 
 ## Todo
-[] trim messages
+- [ ] trim messages
